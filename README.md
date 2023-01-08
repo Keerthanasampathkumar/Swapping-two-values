@@ -18,6 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swa
+#Developed by: 
+#RegisterNumber:22009006
+n1=(input())
+n2=(input())
+temp=n2
+n2=n1
+n1=temp
+print("Swapped values are:",n1,n2)
+```
+
+## Output:
+![swapping of two variable](https://user-images.githubusercontent.com/119477890/211183672-7bf48370-ec07-4619-8412-8f7cf19a73c0.png)
 
 
 
