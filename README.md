@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 ```
 #Program to swa
-#Developed by: 
+#Developed by: KEERTHANA S
 #RegisterNumber:22009006
 n1=(input())
 n2=(input())
